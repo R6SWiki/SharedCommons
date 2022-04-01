@@ -138,3 +138,14 @@ mbox_icon_proofreading_light_orange.svg
 mbox_icon_proofreading_dark_orange.svg
 mbox_icon_test_light_orange.svg
 mbox_icon_test_dark_orange.svg
+
+mbox_icon_experience_light_yellow.svg
+mbox_icon_experience_dark_yellow.svg
+mbox_icon_experience_light_red.svg
+mbox_icon_experience_dark_red.svg
+mbox_icon_experience_light_green.svg
+mbox_icon_experience_dark_green.svg
+mbox_icon_experience_light_orange.svg
+mbox_icon_experience_dark_orange.svg
+mbox_icon_experience_light_blue.svg
+mbox_icon_experience_dark_blue.svg
